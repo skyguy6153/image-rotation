@@ -1,0 +1,12 @@
+#img1   {
+    float: left;
+    transform: rotate(30deg);
+    box-shadow: black 10px 5px 15px;
+}
+
+#img2   {
+    float: left;
+    transform: rotate(-30deg);
+    box-shadow: black 10px 5px 15px;
+
+}
